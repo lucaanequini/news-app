@@ -37,5 +37,5 @@ npm start
 
 5. If you have an iPhone, simply scan the QR code. In the case of an Android device, open Expo Go and scan the QR code.
 
-##Contribuing:
+## Contribuing:
 Feel free to contribute to enhance the features or fix any issues. Create a pull request or open an issue if needed.
